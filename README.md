@@ -1,8 +1,8 @@
-# LLM4EDA: LLM based low code platform for EDA
+# AutoEDA: LLM based low code platform for EDA
 
 ## Description:
 
-LLM4EDA is a chat-based agent designed to perform exploratory data analysis (EDA) and model training on a given dataset. It simplifies the EDA and training process by enabling interaction through chat-based commands.
+AutoEDA is a chat-based agent designed to perform exploratory data analysis (EDA) and model training on a given dataset. It simplifies the EDA and training process by enabling interaction through chat-based commands.
 
 ## How it works:
 
