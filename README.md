@@ -35,6 +35,7 @@ An intelligent and interactive tool for automated exploratory data analysis powe
 - Required Python packages:
   ```
   pandas
+  pandasai
   matplotlib
   seaborn
   ipywidgets
@@ -59,7 +60,7 @@ An intelligent and interactive tool for automated exploratory data analysis powe
 
 3. Install required packages:
    ```bash
-   pip install pandas matplotlib seaborn ipywidgets python-dotenv groq scikit-learn
+   pip install pandas matplotlib seaborn ipywidgets python-dotenv groq scikit-learn pandasai
    jupyter nbextension enable --py widgetsnbextension --sys-prefix
    ```
 
